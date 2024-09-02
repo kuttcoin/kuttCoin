@@ -1,3 +1,5 @@
+# ![KuttCoin Logo](https://github.com/kuttcoin/logo_kutt/blob/main/kutt64x64.png) KuttCoin (KUTT)
+
 ## Hi there 👋
 
 Welcome to the official KuttCoin repository! 🚀
