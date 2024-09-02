@@ -10,7 +10,7 @@ Welcome to the official KuttCoin repository! 🚀
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
 - **Contract Ton:** https://tonviewer.com/EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw
 
-The low initial price is designed to encourage widespread distribution, allowing holders to share KuttCoin with friends and acquaintances, thereby expanding our community and increasing adoption. With an infinite supply, KuttCoin ensures there are always tokens available for new users and enthusiasts in the cryptocurrency world.
+The low initial price is designed to encourage widespread distribution, allowing holders to share KuttCoin with friends and acquaintances, thereby expanding our community and increasing adoption. With a limited supply, KuttCoin ensures there are always tokens available for new users and enthusiasts in the cryptocurrency world.
 
 ### 🪙 Mining KuttCoin
 
