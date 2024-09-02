@@ -60,6 +60,6 @@ We are continuously exploring new technologies and trends in the blockchain spac
 We respect and acknowledge all pronouns.
 
 ### ⚡ Fun fact
-KuttCoin is designed with an infinite supply to ensure continuous availability and growth, enabling us to welcome new users and enthusiasts into the world of cryptocurrency without limitation.
+KuttCoin is designed with a limited supply but we work to ensure continued availability and growth, allowing us to welcome new users and enthusiasts into the cryptocurrency world without limitation.
 
 ---
