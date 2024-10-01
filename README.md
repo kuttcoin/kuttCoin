@@ -4,7 +4,7 @@
 
 Welcome to the official KuttCoin repository! 🚀
 
-**KuttCoin** is a revolutionary **MemeCoin** designed to operate across multiple blockchains.
+**KuttCoin** is a revolutionary **MemeCoin**.
 
 ### 🌟 What is KuttCoin?
 
@@ -12,13 +12,13 @@ Welcome to the official KuttCoin repository! 🚀
 - **Purpose:** To facilitate the exchange of services online and to build a vast community of users.
 - **Contract Ton:** [KUTT TON](https://tonviewer.com/EQCGcF2amuyOthwF2PBN_qdKb-XXpR8Jbf3zRmS2ayLKcYzw)
 
-The low initial price is designed to encourage widespread distribution, allowing holders to share KuttCoin with friends and acquaintances, thereby expanding our community and increasing adoption. With a limited supply, KuttCoin ensures there are always tokens available for new users and enthusiasts in the cryptocurrency world.
+Free mining to encourage widespread distribution, allowing holders to share KuttCoin with friends and acquaintances, thus expanding our community and increasing adoption. With a limited supply, KuttCoin ensures that there are always tokens available for new users and enthusiasts in the cryptocurrency world.
 
 ### 🪙 Mining KuttCoin
 
-- You can mine KuttCoin using our exclusive bot: [@kuttcoin_bot](https://t.me/kuttcoin_bot)! 
-- The bot mines **0.000000000000000001 KUTT** every **5 seconds**. 
-- Users can redeem their mined KUTT once they reach a balance of **1.5 KUTT**.
+- You can mine KuttCoin using our exclusive bot: [KuttCoin Mining](https://kuttcoin.com)! 
+- The bot mines every **1 seconds**. 
+- Users can redeem their mined KUTT once they reach a balance of **15.0 KUTT**.
 
 Get started with mining and be a part of the KuttCoin revolution!
 
@@ -50,13 +50,15 @@ We are continuously exploring new technologies and trends in the blockchain spac
 
 ### 📫 How to reach us
 - **Telegram:** https://t.me/kuttcoin
+- **Twitter/X:** https://x.com/kutt_coin
 - **github:** https://github.com/kuttcoin
 - **Discord Channel:** https://discord.gg/HHPNVkxDcs
 - **VK:** https://vk.com/kuttcoin
+- **DappRadar:** https://dappradar.com/dapp/kuttcoin-mining
 
 ### 📈 Upcoming Listings
-- **BitMart:** KuttCoin will be listed on BitMart starting from 01/11/2024 with trading pairs USDT and BTC.
 - **Binance:** We are actively working to list KuttCoin on Binance.com to increase accessibility and liquidity.
+-**Dedust:** listed
 
 ### 😄 Pronouns
 We respect and acknowledge all pronouns.
