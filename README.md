@@ -49,7 +49,7 @@ We are continuously exploring new technologies and trends in the blockchain spac
 - Cryptocurrency trends and innovations.
 
 ### 📫 How to reach us
-- **Telegram:** https://t.me/kuttcoin
+- **Telegram:** https://t.me/kuttcoin_mining
 - **Twitter/X:** https://x.com/kutt_coin
 - **github:** https://github.com/kuttcoin
 - **Discord Channel:** https://discord.gg/HHPNVkxDcs
